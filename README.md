@@ -3,5 +3,8 @@
 </div>
 
 ## Snapshot 📸
-![Portfolio Landing Page](https://user-images.githubusercontent.com/60526129/220429098-094368a0-c117-4036-a113-a625cf563c3c.png)
+Portfolio Landing Page 
 
+
+
+![Screenshot 2024-05-08 131531](https://github.com/dandusaikrishna/My-Portfolio/assets/138280007/a7fb99bf-e8ec-47bf-a4a5-a6dadb95241d)
