@@ -21,7 +21,9 @@ const About = () => {
                   </motion.div>
                   <div className="split-about">
                     <motion.div initial={{x: '-100%', opacity: 0}} whileInView={horizontal} className="about-content">
-                        <p>Hello! My self  Sai Krishna Dandu. I am currently in my final year of B.Tech.Along with my degree, I have completed courses in Java, Python and I am familiar with tools like GIT and SQL, as well as web development technologies like HTML, CSS, and JavaScript. I have a strong foundation in problem-solving, Data Structures, and Algorithms, having solved over 320+ problems on LeetCode. I am a 2-star coder on CodeChef and have a rating of 1410 on LeetCode. Additionally, I secured second place in a coding competition organized by Smart Interviews at the college level.
+                        <p>Hello! My self Sai Krishna Dandu. I am currently in my final year of B.Tech at CMR Engineering College in Hyderabad, specializing in Electronics and Communication Engineering (ECE). I am also a mentor at Smart Interviews, where I help students develop their problem-solving skills. As a mentor, I have built expertise in strategic communication, algorithms, data structures, problem-solving, and debugging.
+
+I have a strong foundation in problem-solving, data structures, and algorithms by solving over 320 problems on LeetCode, achieving a rating of 1410.
 </p>
                         <br />
                         <p> Feel free to connect with me, as I am always excited to collaborate and contribute to innovative projects and discussions within the tech and cybersecurity domains.</p>
