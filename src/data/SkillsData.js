@@ -8,7 +8,6 @@ import {
     FaDatabase, // Generic database icon to represent SQL
 } from "react-icons/fa";
 import { DiJavascript1, DiPython, DiJava, DiMysql } from "react-icons/di";
-import { SiDjango } from "react-icons/si";
 
 import {
     SiTailwindcss,
@@ -39,25 +38,6 @@ export const SkillsData = [
         name: "CSS",
         icon: <FaCss3Alt />,
     },
-    {
-        name: "Django",
-        icon: <SiDjango />,
-    },
-    {
-        name: "Django REST Framework",
-        icon: <SiDjangoRest />,
-    },
-    // The remaining skills in their original order
-    { name: "MySQL", icon: <DiMysql /> },
-    { name: "MongoDB", icon: <SiMongodb /> },
-    { name: "Redis", icon: <SiRedis /> },
-    { name: "Celery", icon: <FaCode /> }, 
-    { name: "Git", icon: <FaGithub /> },
-    { name: "GitHub", icon: <FaGithub /> },
-    { name: "Postman", icon: <SiPostman /> },
-    { name: "Jira", icon: <SiJirasoftware /> },
-    { name: "AWS", icon: <SiAmazonaws /> },
-    { name: "Excel", icon: <FaDatabase /> }, 
 	{
         name: "DSA",
         icon: <FaCode />, // Generic coding icon for DSA
