@@ -9,12 +9,27 @@ import {
 } from "react-icons/fa";
 import { DiJavascript1, DiPython, DiJava, DiMysql } from "react-icons/di";
 
+import { SiMaterialui, SiPython } from "react-icons/si";
 import {
-    SiTailwindcss,
-    SiFirebase,
+    FaBootstrap,
+    FaCss3Alt,
+    FaGithub,
+    FaHtml5,
+    FaCode,
+    FaPuzzlePiece,
+    FaDatabase,
+} from "react-icons/fa";
+import {
+    DiJavascript1,
+    DiPython,
+    DiJava,
+    DiMysql
+} from "react-icons/di";
+import {
     SiMaterialui,
-    SiPython, // Python icon for skills related to Python
+    SiPython
 } from "react-icons/si";
+
 
 export const SkillsData = [
     // Your specified order starts here
