@@ -25,7 +25,7 @@ const Services = () => {
                     <div className="services-card">
                         <BiCodeAlt className='services-icon' />
                         <p className='services-title'>CMR Engineering College, Hyderabad </p>
-                        <p className='services-desc'>Bachelor of Technology in Electronics and Communication Engineering, Graduated: 2025 </p>
+                        <p className='services-desc'>Bachelor of Technology in Electronics and Communication Engineering,Graduated: 2025 </p>
                     </div>
                     <div className="services-card">
                         <IoColorWandOutline className='services-icon' />
