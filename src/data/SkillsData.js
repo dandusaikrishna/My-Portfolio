@@ -3,36 +3,24 @@ import {
     FaCss3Alt,
     FaGithub,
     FaHtml5,
-    FaCode, // Generic coding icon
-    FaPuzzlePiece, // Icon to represent Problem Solving
-    FaDatabase, // Generic database icon to represent SQL
-} from "react-icons/fa";
-import { DiJavascript1, DiPython, DiJava, DiMysql } from "react-icons/di";
-
-import { SiMaterialui, SiPython } from "react-icons/si";
-import {
-    FaBootstrap,
-    FaCss3Alt,
-    FaGithub,
-    FaHtml5,
     FaCode,
     FaPuzzlePiece,
-    FaDatabase,
+    FaDatabase
 } from "react-icons/fa";
+
 import {
     DiJavascript1,
     DiPython,
     DiJava,
     DiMysql
 } from "react-icons/di";
+
 import {
     SiMaterialui,
     SiPython
 } from "react-icons/si";
 
-
 export const SkillsData = [
-    // Your specified order starts here
     {
         name: "Python",
         icon: <DiPython />,
@@ -53,13 +41,13 @@ export const SkillsData = [
         name: "CSS",
         icon: <FaCss3Alt />,
     },
-	{
+    {
         name: "DSA",
-        icon: <FaCode />, // Generic coding icon for DSA
+        icon: <FaCode />,
     },
     {
         name: "Problem Solving",
-        icon: <FaPuzzlePiece />, // Using FaPuzzlePiece to represent Problem Solving
+        icon: <FaPuzzlePiece />,
     },
     {
         name: "JavaScript",
@@ -73,30 +61,29 @@ export const SkillsData = [
         name: "Git",
         icon: <FaGithub />,
     },
-  
     {
         name: "SQL",
-        icon: <FaDatabase />, // Generic database icon to represent SQL
+        icon: <FaDatabase />,
     },
     {
         name: "Tkinter",
-        icon: <SiPython />, // Python icon for Tkinter as it's a Python GUI library
+        icon: <SiPython />,
     },
     {
         name: "OpenCV",
-        icon: <SiPython />, // Python icon for OpenCV as it is often used in Python
+        icon: <SiPython />,
     },
     {
         name: "NumPy",
-        icon: <SiPython />, // Python icon for NumPy as it is often used in Python
+        icon: <SiPython />,
     },
     {
         name: "Pandas",
-        icon: <SiPython />, // Python icon for Pandas as it is often used in Python
+        icon: <SiPython />,
     },
     {
         name: "GUI",
-        icon: <FaCode />, // Generic coding icon for GUI as it involves coding
+        icon: <FaCode />,
     },
     {
         name: "MySQL",
