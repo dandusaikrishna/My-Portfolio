@@ -1,10 +1,8 @@
-<div align="center">
-	<h1> My Portfolio </h1>
-</div>
+## My Portfolio
 
-## Snapshot 📸
+
 Portfolio Landing Page 
 
 
 
-![Screenshot 2024-05-08 131531](https://github.com/dandusaikrishna/My-Portfolio/assets/138280007/a7fb99bf-e8ec-47bf-a4a5-a6dadb95241d)
+<img width="1359" height="677" alt="image" src="https://github.com/user-attachments/assets/f0ee0e02-edde-41da-8d2c-664e14f5ffc5" />
