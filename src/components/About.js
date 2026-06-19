@@ -22,21 +22,19 @@ const About = () => {
                   <div className="split-about">
                     <motion.div initial={{x: '-100%', opacity: 0}} whileInView={horizontal} className="about-content">
                     <p>
-    Hello! My self Sai Krishna Dandu. I have recently completed B.Tech at CMR Engineering College in Hyderabad,
-    specializing in Electronics and Communication Engineering (ECE). I bring hands-on experience as a Backend SDE Intern
-    at GrayQuest, where I developed scalable backend services using Django REST Framework, integrated real-time financial
-    analytics, and implemented automation that reduced manual effort by 90%.
+    Hi, I'm Sai Krishna Dandu, a Software Engineer at Deepta AI specializing in backend development, microservices, and distributed systems. I have built scalable production systems using Go, Python, Kafka, MongoDB, and cloud technologies.
   </p>
   <br />
   <p>
-    I’ve mentored students for over a year at Smart Interviews, enhancing their skills in Data Structures and Algorithms,
-    while also strengthening my own abilities in debugging, communication, and technical leadership. I have solved 670+
-    problems on LeetCode, with a peak rating of 1590, and consistently engage in problem-solving and system design.
+    At Deepta AI, I developed the Email Microservice to enable asynchronous service communication between multiple micro services, ensuring reliable and scalable email delivery. I led the development of the Cohorts analytics platform, delivering user segmentation, behavioral analytics, and large-scale data export capabilities with complex filtering and segmentation.
   </p>
   <br />
   <p>
-    I’m passionate about backend development, distributed systems, and cybersecurity, and I’m always open to collaborating
-    on impactful and innovative tech projects.
+    I implemented a configurable storage layer supporting AWS S3 and Google Cloud Storage (GCS) based on runtime configuration, enabling flexible cloud deployments. I worked on third-party integrations with platforms like MoEngage, connecting customers through custom webhooks and API connectors.
+  </p>
+  <br />
+  <p>
+    I enjoy designing reliable, high-performance systems and transforming complex business requirements into scalable software solutions. I've mentored students in DSA, solved 670+ problems on LeetCode with a peak rating of 1590, and am passionate about building impactful, production-grade systems.
   </p>
                     </motion.div>
                     <motion.div initial={{x: '50', opacity: 0}} whileInView={horizontal}  className='about-img'>

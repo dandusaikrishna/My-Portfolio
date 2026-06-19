@@ -96,7 +96,7 @@ const HeroSection = ({ nav, handleNav }) => {
 					<span>Sai Krishna</span> <span>Dandu</span>
 				</p>
 				<p className='hero-desc'>
-					SDE Backend Intern at <span className='hero-desc-sub'>GrayQuest Education Finance Pvt Ltd</span>
+					Software Engineer at <span className='hero-desc-sub'>Deepta AI</span>
 				</p>
 			</motion.div>
 			<motion.span
