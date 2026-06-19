@@ -21,24 +21,32 @@ import {
 
 export const SkillsData = [
     {
+        name: "Go",
+        icon: <FaCode />,
+    },
+    {
         name: "Python",
         icon: <DiPython />,
     },
     {
-        name: "Java",
-        icon: <DiJava />,
+        name: "Kafka",
+        icon: <FaDatabase />,
     },
     {
-        name: "C",
+        name: "Microservices",
+        icon: <FaPuzzlePiece />,
+    },
+    {
+        name: "AWS",
         icon: <FaCode />,
     },
     {
-        name: "HTML",
-        icon: <FaHtml5 />,
+        name: "Backend APIs",
+        icon: <FaCode />,
     },
     {
-        name: "CSS",
-        icon: <FaCss3Alt />,
+        name: "Java",
+        icon: <DiJava />,
     },
     {
         name: "DSA",
@@ -53,20 +61,28 @@ export const SkillsData = [
         icon: <DiJavascript1 />,
     },
     {
+        name: "SQL",
+        icon: <FaDatabase />,
+    },
+    {
+        name: "C",
+        icon: <FaCode />,
+    },
+    {
+        name: "HTML",
+        icon: <FaHtml5 />,
+    },
+    {
+        name: "CSS",
+        icon: <FaCss3Alt />,
+    },
+    {
         name: "Material UI",
         icon: <SiMaterialui />,
     },
     {
         name: "Git",
         icon: <FaGithub />,
-    },
-    {
-        name: "SQL",
-        icon: <FaDatabase />,
-    },
-    {
-        name: "Tkinter",
-        icon: <SiPython />,
     },
     {
         name: "OpenCV",
